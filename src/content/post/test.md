@@ -1,7 +1,7 @@
 ---
 title: "Upon which we try to get this thing running"
 date: 2019-03-03T21:12:05Z
-draft: true
+draft: false
 ---
 
 Test!
