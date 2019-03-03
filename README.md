@@ -7,14 +7,12 @@ to set up Hugo.
 Also see https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 regarding theme and git submodules.
 
-**Run all hugo commands from ~/workspace/src**
-
 Create a post:
 ```
-hugo new post/My Post.md 
+hugo -s src new post/My Post.md 
 ```
 
 Run locally in C9 with:
 ```
-hugo serve -D --bind=0.0.0.0 -p 8080 -b https://robbearman-robbear.c9users.io/ --appendPort=false --disableFastRender 
+hugo serve -D --bind=0.0.0.0 -p 8080 -b https://robbearman-robbear.c9users.io/ --appendPort=false --disableFastRender -s src
 ```
