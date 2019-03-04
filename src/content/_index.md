@@ -1,5 +1,5 @@
 ---
 title: "Hoops at dawn"
-description: "A Rob Bearman production"
+description: "Crazy thoughts I wouldn't dare tell anyone else"
 ---
-Stuff that occured to me in between free throws
+Stuff that occured to me between free throws
