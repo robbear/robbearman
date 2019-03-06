@@ -1,6 +1,7 @@
 title = "Rob Bearman"
 languageCode = "en-us"
 theme = "ananke"
+baseurl = "/"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
