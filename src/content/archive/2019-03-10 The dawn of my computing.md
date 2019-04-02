@@ -1,7 +1,7 @@
 ---
 title: "The dawn of my computing"
 date: 2019-03-10T16:00:00Z
-draft: false
+draft: true
 featured_image: 'images/tahoe.jpg'
 ---
 
